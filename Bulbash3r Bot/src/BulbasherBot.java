@@ -20,7 +20,7 @@ import java.io.*;
  * Небольшой бот для Телеграма, взаимодействие с которым происходит при помощи /команд.
  */
 public class BulbasherBot extends TelegramLongPollingBot {
-    private static final String BOT_TOKEN = "522275875:AAFNsGlbSzvioBRT3e3uRIxrwj03H5YzcCk"; //Токен бота
+    //private static final String BOT_TOKEN = "522275875:AAFNsGlbSzvioBRT3e3uRIxrwj03H5YzcCk"; //Токен бота
     private static final String BOT_USERNAME = "Bulbash3r Bot"; //Имя бота
     private static final int ERROR_CONST = 3;
     private static final String[] STICKER = {
