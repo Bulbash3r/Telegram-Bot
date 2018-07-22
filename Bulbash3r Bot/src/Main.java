@@ -12,6 +12,6 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println ("Bot is ready");
-        new BulbasherBot().addToLog("Bot is ready");
+        //new BulbasherBot().addToLog("Bot is ready");
     }
 }

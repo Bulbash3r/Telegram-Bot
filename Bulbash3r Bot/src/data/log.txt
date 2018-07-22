@@ -529,3 +529,263 @@
 0 Bulbash3r: /help
 1 Помощь выведена
 2 Bulbash3r: /music
+0 Bulbash3r: /help
+1 Помощь выведена
+2 Bulbash3r: /random
+3 Bulbash3r: 100
+4 Bot: Ваше случайное число - 26
+0 Bulbash3r: /flip
+1 Решка
+2 Bulbash3r: /flip
+3 Решка
+4 Bulbash3r: /flip
+5 Решка
+6 Bulbash3r: /flip
+7 Решка
+8 Bulbash3r: /flip
+9 Решка
+10 Bulbash3r: /flip
+11 Орёл
+12 Bulbash3r: /flip
+13 Решка
+14 Bulbash3r: /flip
+15 Решка
+16 Bulbash3r: /flip
+17 Решка
+18 Bulbash3r: /flip
+19 Орёл
+20 Bulbash3r: /flip
+21 Решка
+22 Bulbash3r: /flip
+23 Орёл
+24 Bulbash3r: /flip
+25 Решка
+26 Bulbash3r: /flip
+27 Решка
+28 Bulbash3r: /flip
+29 Решка
+30 Bulbash3r: /flip
+31 Решка
+32 Bulbash3r: /flip
+33 Решка
+34 Bulbash3r: /flip
+35 Решка
+36 Bulbash3r: /flip
+37 Орёл
+38 Bulbash3r: /flip
+39 Решка
+40 Bulbash3r: /flip
+41 Решка
+42 Bulbash3r: /flip
+43 Орёл
+44 Bulbash3r: /flip
+45 Орёл
+0 Bulbash3r: /flip
+1 Орёл
+2 Bulbash3r: /flip
+3 Орёл
+4 Bulbash3r: /flip
+5 Орёл
+6 Bulbash3r: /flip
+7 Орёл
+8 Bulbash3r: /flip
+9 Орёл
+10 Bulbash3r: /flip
+11 Орёл
+12 Bulbash3r: /flip
+13 Орёл
+14 Bulbash3r: /flip
+15 Орёл
+16 Bulbash3r: /flip
+17 Орёл
+0 Bulbash3r: /random
+1 Bulbash3r: 5
+2 Bot: Ваше случайное число - 0
+3 Bulbash3r: /start
+4 Bot: Дороу, Antoś!
+Тыкай /help чтобы начать
+5 Bulbash3r: /random
+6 Bulbash3r: 45
+7 Bot: Ваше случайное число - 14
+8 Bulbash3r: /random
+9 Bulbash3r: 3
+10 Bot: Ваше случайное число - 1
+11 Bulbash3r: /help
+12 Помощь выведена
+13 Bulbash3r: /help
+14 Помощь выведена
+15 Bulbash3r: /quote
+16 Bot: ПЛИСКАСОСИСКА (с) Евгений Степанцов
+17 Bulbash3r: /quote
+18 Bot: вот коболь жопа (с) Евгений Степанцов
+19 Bulbash3r: /sticker
+20 Стикер отправлен
+21 Bulbash3r: /sticker
+22 Стикер отправлен
+23 Bulbash3r: /sticker
+24 Стикер отправлен
+25 Bulbash3r: /sticker
+26 Стикер отправлен
+27 Bulbash3r: /sticker
+28 Стикер отправлен
+29 Bulbash3r: /sticker
+30 Стикер отправлен
+31 Bulbash3r: /sticker
+32 Стикер отправлен
+33 Bulbash3r: /sticker
+34 Стикер отправлен
+35 Bulbash3r: /sticker
+36 Стикер отправлен
+37 Bulbash3r: /sticker
+38 Стикер отправлен
+39 Bulbash3r: null
+40 Bulbash3r: null
+41 Bulbash3r: null
+42 Bulbash3r: null
+43 Bulbash3r: null
+44 Bulbash3r: null
+45 Bulbash3r: /flip
+46 Орёл
+47 Bulbash3r: /music
+48 Bulbash3r: /music
+49 Bulbash3r: /music
+50 Bulbash3r: /memes
+51 Мем отправлен
+52 Bulbash3r: /memes
+53 Мем отправлен
+54 Bulbash3r: /memes
+55 Мем отправлен
+56 Bulbash3r: /memes
+57 Мем отправлен
+58 Bulbash3r: /memes
+59 Мем отправлен
+60 Bulbash3r: /memes
+61 Мем отправлен
+0 Bulbash3r: /random 1 50
+0 Bulbash3r: /random
+0 Bulbash3r: /help
+1 Bulbash3r: /random
+2 Bulbash3r: /random 1 50
+0 Bulbash3r: /random
+1 Bulbash3r: /random
+2 Bulbash3r: /random
+3 Bulbash3r: /random
+4 Bulbash3r: /random
+5 Bulbash3r: /random
+6 Bulbash3r: /random
+7 Bulbash3r: /random
+8 Bulbash3r: /random 1
+9 Bulbash3r: /random 1
+10 Bulbash3r: /random 2
+11 Bulbash3r: /random 2
+12 Bulbash3r: /random 2
+13 Bulbash3r: /random 2
+14 Bulbash3r: /random 2
+15 Bulbash3r: /random 2
+16 Bulbash3r: /random 2
+17 Bulbash3r: /random 2
+/random 2
+18 Bulbash3r: /random 2
+0 Bulbash3r: /random 2
+1 Bulbash3r: /random 2
+2 Bulbash3r: /random 2
+3 Bulbash3r: /random 2
+4 Bulbash3r: /random 2
+5 Bulbash3r: /random 2
+6 Bulbash3r: /random 2
+7 Bulbash3r: /random 2
+8 Bulbash3r: /random 2
+9 Bulbash3r: /random 2
+10 Bulbash3r: /random 2
+0 Bulbash3r: /random 2
+1 Bulbash3r: /random 2
+2 Bulbash3r: /random 2
+3 Bulbash3r: /random 2
+4 Bulbash3r: /random 2
+5 Bulbash3r: /random 2
+6 Bulbash3r: /random 2
+7 Bulbash3r: /random 5 20
+0 Bulbash3r: /random 5 20
+1 Bulbash3r: /random 5 20
+2 Bulbash3r: /random 5 20
+3 Bulbash3r: /random 5 20
+0 Bulbash3r: /random 5 20
+1 Bulbash3r: /random 5 20
+2 Bulbash3r: /random 5 20
+3 Bulbash3r: /random 5 20
+0 Bulbash3r: /random 5 20
+1 Bulbash3r: /random 5 20
+2 Bulbash3r: /random 5 20
+3 Bulbash3r: /random 5 20
+4 Bulbash3r: /random 5 20
+5 Bulbash3r: /random 5 20
+6 Bulbash3r: /random 5 20
+7 Bulbash3r: /random 5 20
+0 Bulbash3r: /random 5 20
+1 Bulbash3r: /random sdgh
+2 Bulbash3r: /random 5 20
+3 Bulbash3r: /random 5 20
+4 Bulbash3r: /random fdg
+0 Bulbash3r: /random 5
+1 Bulbash3r: /random kek
+0 Bulbash3r: /random 5 20
+1 Bulbash3r: /random 5 20
+2 Bulbash3r: /random 5 20
+3 Bulbash3r: /random 5 20
+4 Bulbash3r: /random 5 20
+5 Bulbash3r: /random 5 20
+6 Bulbash3r: /random 5 20
+7 Bulbash3r: /random 5 20
+8 Bulbash3r: /random 5 20
+0 Bulbash3r: /random 5 20
+1 Bulbash3r: /random 5 20
+2 Bulbash3r: /random 5 20
+3 Bulbash3r: /random 5 20
+4 Bulbash3r: /random 5 20
+5 Bulbash3r: /random 5 20
+6 Bulbash3r: /random 5 20
+7 Bulbash3r: /random 5 20
+8 Bulbash3r: /random 5 20
+9 Bulbash3r: /random 5 20
+10 Bulbash3r: /random 5 20
+11 Bulbash3r: /random 5 20
+12 Bulbash3r: /random 5 20
+13 Bulbash3r: /random 5 20
+14 Bulbash3r: /random 5 20
+15 Bulbash3r: /random 5 20
+16 Bulbash3r: /random 5 20
+17 Bulbash3r: /random 5 20
+18 Bulbash3r: /random 5 20
+19 Bulbash3r: /random 5 20
+20 Bulbash3r: /random 5 20
+21 Bulbash3r: /random 5 20
+22 Bulbash3r: /random 5 20
+23 Bulbash3r: /random 5 20
+24 Bulbash3r: /random 5 20
+25 Bulbash3r: /random 5 20
+26 Bulbash3r: /random 5 20
+27 Bulbash3r: /random 5 20
+28 Bulbash3r: /random 5 20
+29 Bulbash3r: /random 5 20
+30 Bulbash3r: /random 5 20
+31 Bulbash3r: /random 5 20
+32 Bulbash3r: /random 5 20
+33 Bulbash3r: /random 5 20
+34 Bulbash3r: /random 5 20
+35 Bulbash3r: /random 5 20
+36 Bulbash3r: /random 5 20
+37 Bulbash3r: /random 5 20
+0 Bulbash3r: /random 2 3
+1 Bulbash3r: /random 2 3
+2 Bulbash3r: /random 2 3
+3 Bulbash3r: /random 2 3
+4 Bulbash3r: /random 2 3
+5 Bulbash3r: /random 2 3
+6 Bulbash3r: /random 2 3
+7 Bulbash3r: /random 2 3
+8 Bulbash3r: /random 2 3
+9 Bulbash3r: /random 2 3
+0 Bulbash3r: /random
+1 Bulbash3r: /random 2
+2 Bulbash3r: /random 2
+3 Bulbash3r: /random 2 3
